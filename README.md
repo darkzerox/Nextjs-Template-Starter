@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First , Create Next app from this template
 
 ```bash
-npx create-next-app --example [Github Repository Link] <YOUR_APP_NAME>
+npx create-next-app --example https://github.com/darkzerox/Nextjs-Template-Starter myapp
 ```
 
 Then, run the development server:
