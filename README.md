@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First , Create Next app from this template
+
+```bash
+npx create-next-app --example https://github.com/darkzerox/Nextjs-Template-Starter myapp
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
